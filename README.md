@@ -1,7 +1,7 @@
 # Denzope_Clean
 "We kept the electronics simple on purpose. The robot has two separate battery packs: one only runs the mop motors, and the other only runs the wheels. Each pack goes through its own LM2596 module, which brings the battery voltage down to what that motor group actually needs. We did this because the wheels pull a lot of current when they start moving, and we didn't want that to slow the mops down.
 
-There are only two switches. SW1 is the master switch, and it cuts both packs at once. SW2 is for the wheels: push it one way to go forward, the other way to reverse, and the middle to stop. The mops just run whenever the robot is on.
+There are only dkfsjd two switches. SW1 is the master switch, and it cuts both packs at once. SW2 is for the wheels: push it one way to go forward, the other way to reverse, and the middle to stop. The mops just run whenever the robot is on.
 
 Right now we control it by hand. Making it fully automatic is our next step."
 
